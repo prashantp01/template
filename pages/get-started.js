@@ -20,7 +20,7 @@ const GetStarted = () => {
                 initialValues={{ remember: true }}
                 onFinish={handleSubmit}
             >
-                <Title level={1}> I'm looking for </Title>
+                <Title level={1}> I&apos;m looking for </Title>
                 <section>
                     <Form.Item rules={[{ required: true, message: 'Please input your query!' }]} name="query">
                         <Input size="large" placeholder="eg: Musician portfolio website" />

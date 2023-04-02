@@ -1,5 +1,5 @@
 import { Typography, Input, Button, Form } from 'antd';
-import styles from '../styles/home.module.css';
+import styles from '../styles/Home.module.css';
 const { Title } = Typography;
 import { SearchOutlined } from '@ant-design/icons';
 
